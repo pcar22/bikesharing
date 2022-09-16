@@ -41,5 +41,5 @@ The map above indicates the majority of riders are Male.
 ## Summary
 The data indicates a possible target for profitable ridership, and that would be male commuters willing to subscribe to the service. We could do another visualization on the age of the ridership to confirm commuters versus tourists. One more visualization that could be done is for the number of times each bike was used and the total duration.
 
-[Link to Story](https://public.tableau.com/shared/Y7JZKR4MC?:display_count=n&:origin=viz_share_link)
+[Link to Story](https://public.tableau.com/app/profile/peter.carranza/viz/NYCChallenge_16632042646260/NYCStory)
 
